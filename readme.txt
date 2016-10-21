@@ -1,1 +1,1 @@
-dev1 : readme.txt......@
+dev1 : readme.txt......@ & SIMPLE;
